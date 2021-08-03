@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166366624234",
+    "project_id": "lenind-43f76",
+    "storage_bucket": "lenind-43f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166366624234:android:12cb630521e1b7b28c1a93",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166366624234-m6ppvoscrj849veidjvh9qkbkljcbm35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0Wfd-84q97nlwxQgFyDE7vEwMUdpm_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166366624234-m6ppvoscrj849veidjvh9qkbkljcbm35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
